@@ -88,8 +88,8 @@ This demonstrates both:
 - How attacks are performed (offensive view)
 - Why vulnerabilities exist in application logic (development view)
 
-Together, both projects showcase a broader understanding of cybersecurity 
-from both attacker and defender viewpoints.
+Together, these projects demonstrate a broader and more practical understanding of cybersecurity, 
+covering both application-level vulnerabilities and real-world detection and response.
 
 
 ## Conclusion
