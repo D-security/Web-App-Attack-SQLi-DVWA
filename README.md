@@ -1,12 +1,13 @@
 # SQL Injection Attack on DVWA (Web Exploitation Lab)
 
 ## 🧠 Overview
-This project demonstrates a SQL injection attack on a vulnerable web application (DVWA).
+This project provides a detailed analysis of SQL injection vulnerabilities 
+in a web application (DVWA), demonstrating how improper input handling 
+can lead to unauthorized data access.
 
-The objective was to manipulate input fields to bypass intended query logic and retrieve unauthorized data from the database.
-
-This showcases practical web exploitation skills including input testing, logic manipulation, and data extraction.
-
+The focus is on understanding how web application logic is bypassed, 
+how different security levels affect exploitation, 
+and how such vulnerabilities can be mitigated.
 ---
 
 ## ⚙️ Lab Environment
