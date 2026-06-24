@@ -92,7 +92,18 @@ Together, both projects showcase a broader understanding of cybersecurity
 from both attacker and defender viewpoints.
 
 
-## 📌 Conclusion
+## Conclusion
 
-This project demonstrated how improper input validation in web applications can lead to SQL injection vulnerabilities, allowing attackers to retrieve unauthorized data.
-``
+This project demonstrated how improper input validation in web applications 
+can lead to SQL injection vulnerabilities, allowing attackers to retrieve 
+unauthorized data.
+
+By analysing both exploitation techniques and security controls, this project 
+highlights the importance of secure coding practices in preventing web-based attacks.
+
+Combined with the SOC Simulation project, this work demonstrates a broader 
+understanding of cybersecurity across both application-level vulnerabilities 
+and real-world attack detection and response.
+
+For a broader view of how attacks are detected and handled in real environments, 
+see my SOC Simulation project.
